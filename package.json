@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tracy-codes/portfolio/issues"
   },
-  "homepage": "https://github.com/tracy-codes/portfolio#readme"
+  "homepage": "https://github.com/tracy-codes/portfolio#readme",
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
 }
