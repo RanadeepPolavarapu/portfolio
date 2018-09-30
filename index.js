@@ -6,7 +6,7 @@ const port = 3000;
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader("Content-Type", "text/plain");
-  res.end("Testing master brnach checking");
+  res.end("Testing master branch check on web server");
 });
 
 server.listen(port, hostname, () => {
