@@ -1,7 +1,8 @@
 import Header from "../components/Header";
-
+import Meta from "../components/meta";
 export default () => (
   <div>
+    <Meta />
     <Header />
     <h1>About me</h1>
     <ul>
