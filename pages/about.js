@@ -1,5 +1,8 @@
+import Header from "../components/Header";
+
 export default () => (
   <div>
+    <Header />
     <h1>About me</h1>
     <ul>
       <li>I'm 22 years old</li>
