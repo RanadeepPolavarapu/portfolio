@@ -4,7 +4,10 @@
   "description": "My portfolio project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 3000"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/tracy-codes/portfolio/issues"
   },
-  "homepage": "https://github.com/tracy-codes/portfolio#readme"
+  "homepage": "https://github.com/tracy-codes/portfolio#readme",
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
 }
