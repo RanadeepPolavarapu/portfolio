@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracy-codes/portfolio.git"
+  },
+  "author": "Tracy Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tracy-codes/portfolio/issues"
+  },
+  "homepage": "https://github.com/tracy-codes/portfolio#readme"
+}
